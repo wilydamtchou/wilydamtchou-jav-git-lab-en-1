@@ -34,7 +34,7 @@ Output of git status
 Exercice 2: Git areas: Working Directory (WD), Staging, Repository
 
 2.1 Actions
-Create a file notes.txt containing: 
+Create a file notes.txt containing:
 
 
 Git est un système de gestion de versions distribué.
@@ -104,7 +104,7 @@ Exercice 7: Understanding Git snapshots
 
 7.1 Actions
 Display the hash of the last commit. 
-List the contents of the snapshot with: 
+List the contents of the snapshot with:
 
 
 git ls-tree -r <hash>
