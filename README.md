@@ -3,13 +3,7 @@ Gitflows: Github, Gitlab
 
 Lab 1 : Git Fondamentals
 
-Professional Bachelor’s Degree in Cloud Computing
-Université des montages
 
-P.Eng. Willy Damtchou
-
-
-December 2025
 General Objective
 Put into practice all the fundamental concepts of Git before tackling collaborative workflows. 
 
